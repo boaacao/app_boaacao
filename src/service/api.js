@@ -1,6 +1,6 @@
 import axios from 'axios';
 import AsyncStorage from '@react-native-community/async-storage';
-const urlBase = 'https://boacao.herokuapp.com';
+const urlBase = 'https://appboaacao.herokuapp.com';
 axios.defaults.baseURL = urlBase;
 
 
